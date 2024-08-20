@@ -1,5 +1,6 @@
-gxde-testing-source (1.0.0) UNRELEASED; urgency=medium
+gxde-testing-source (1.0.1) UNRELEASED; urgency=medium
 
   * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * 
 
- -- gfdgd_xi <3025613752@qq.com>  Sun, 18 Aug 2024 20:18:33 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Tue, 20 Aug 2024 10:42:02 +0800
