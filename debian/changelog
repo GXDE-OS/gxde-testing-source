@@ -1,7 +1,5 @@
-gxde-testing-source (1.1.3) UNRELEASED; urgency=medium
+gxde-testing-source (1.1.4) UNRELEASED; urgency=medium
 
-  * 更换URL
-  * 新增 Signed-by 字段
-  * 移除冲突选项
+  * 新增代号：壮壮
 
- -- gfdgd_xi <3025613752@qq.com>  Thu, 23 Jan 2025 08:54:27 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Tue, 04 Feb 2025 23:00:09 +0800
