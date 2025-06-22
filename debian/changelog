@@ -1,5 +1,6 @@
-gxde-testing-source (1.1.5) UNRELEASED; urgency=medium
+gxde-testing-source (1.1.6) UNRELEASED; urgency=medium
 
   * 新增山东大学镜像站地址
+  * 修复镜像源 url 错误的问题
 
- -- gfdgd_xi <3025613752@qq.com>  Wed, 05 Feb 2025 21:49:18 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Sun, 22 Jun 2025 16:51:56 +0800
